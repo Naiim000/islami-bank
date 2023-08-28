@@ -3,7 +3,7 @@ document.getElementById('login-btn').addEventListener('click',function(){
     const email=emailField.value;
     const passwordField=document.getElementById('user-password')
     password=passwordField.value;
-    if(email=="didar@gmail.com" && password =="didar090")
+    if(email=="naim@gmail" && password =="kireAppon")
     {
         window.location.href="user.html";
     }
